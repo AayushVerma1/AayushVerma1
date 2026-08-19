@@ -2,9 +2,9 @@
 
 ### 🚀 Aspiring Software Engineer | AI/ML Enthusiast | Student
 
-I'm a student at **Maharaja Agrasen College, NSUT'29**, passionate about building software, exploring **AI/ML**, and strengthening my foundations in **Data Structures & Algorithms**.
+I'm a student of **Mathematics and Computing at NSUT'29**, passionate about building software, exploring **AI/ML**, and strengthening my foundations in **Data Structures & Algorithms**.
 
-* 🔭 Currently working on **AI/ML, Backend Development & DSA**
+* 🔭 Currently working on **AI/ML, Full Stack Development & DSA**
 * 🌱 Learning and exploring **Machine Learning, Backend Systems & Generative AI**
 * 💡 Interested in building practical, useful technology
 * 💻 Always learning, building, and improving
@@ -40,7 +40,7 @@ I'm a student at **Maharaja Agrasen College, NSUT'29**, passionate about buildin
 
 ### Computer Science
 
-**Data Structures & Algorithms • Problem Solving • Backend Development**
+**Data Structures & Algorithms • Problem Solving • Full Stack Development**
 
 ---
 
